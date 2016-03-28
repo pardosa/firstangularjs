@@ -1,0 +1,49 @@
+[
+{
+"name": "Aku padamu 1",
+"price": 2.95,
+"desc": "desc asdf asdf...",
+"canBuy": false
+},
+{
+"name": "Padamu aku 2",
+"price": 3.25,
+"desc": "desc asdf asdf...",
+"canBuy": true,
+"reviews": [
+{
+"stars": 5,
+"body": "me like it",
+"author": "asdf@asdf.com"
+},
+{
+"stars": 5,
+"body": "me like it too",
+"author": "asdftoo@asdf.com"
+},
+{
+"stars": 4,
+"body": "oke lah booyyy",
+"author": "oke@boy.com"
+}
+]
+},
+{
+"name": "Padamu aku 3",
+"price": 1.25,
+"desc": "desc asdf asdf...",
+"canBuy": true
+},
+{
+"name": "Padamu aku 4",
+"price": 2.55,
+"desc": "desc asdf asdf...",
+"canBuy": true
+},
+{
+"name": "Padamu aku 5",
+"price": 1.95,
+"desc": "desc asdf asdf...",
+"canBuy": true
+}
+]
